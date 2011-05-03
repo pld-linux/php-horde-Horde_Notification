@@ -9,7 +9,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	c28a45dd6e8d9e7184ee6f8ad033b33e
-URL:		http://pear.horde.org/package/Horde_Notification/
+URL:		https://github.com/horde/horde/tree/master/framework/Notification/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR
