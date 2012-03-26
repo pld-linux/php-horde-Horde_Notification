@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Notification System
 Name:		php-horde-Horde_Notification
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	c28a45dd6e8d9e7184ee6f8ad033b33e
+# Source0-md5:	9dcd960ee1086d2655bccb540e45c736
 URL:		https://github.com/horde/horde/tree/master/framework/Notification/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
